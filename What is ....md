@@ -8,6 +8,7 @@ Displayed under your loo and menu.
 Helps the reader to:
   - Understand what you offer.
   - Why someone should work with you.
-  - The value that you provide with your services.  
+  - The value that you provide with your services.
+
 Often contains a call action button like "contact me".
   3. 
